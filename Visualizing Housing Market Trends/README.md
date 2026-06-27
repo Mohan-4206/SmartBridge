@@ -213,7 +213,7 @@ The completed Tableau Dashboard and Storyboard are:
 
 ---
 
-# 📸 Project Output
+#  Project Output
 
 * Interactive Tableau Dashboard
 * Tableau Storyboard
